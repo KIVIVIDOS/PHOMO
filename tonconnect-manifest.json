@@ -1,5 +1,5 @@
 {
-  "url": "https://github.com/XaBbl4/pytonconnect",                        // required
-  "name": "PHOMO",                      // required
-  "iconUrl": "https://raw.githubusercontent.com/KIVIVIDOS/PHOMO/main/PHOMO.png",               // required
+  "url": "https://github.com/XaBbl4/pytonconnect",
+  "name": "PHOMO",
+  "iconUrl": "https://raw.githubusercontent.com/KIVIVIDOS/PHOMO/main/PHOMO.png"
 }
